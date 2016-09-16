@@ -1,0 +1,34 @@
+{
+    "author": "ragesoss@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "diderot-c",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable"
+        ],
+        "displayName": "Diderot C",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "ARTICLE": 0,
+            "DISTANCE": 2,
+            "IS_NEW": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "752681f3-e884-4ab9-90fe-aa29ea29bb1a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
