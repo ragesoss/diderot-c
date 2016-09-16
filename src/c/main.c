@@ -1,5 +1,4 @@
 #include <pebble.h>
-#include "main.h"
 
 #define ARTICLE 0
 #define IS_NEW 1
